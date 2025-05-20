@@ -11,4 +11,9 @@ export const GlobalStyle = createGlobalStyle`
     background-color: #1E192C;
     color: #FFFFFF;
   }
+
+  a{
+    text-decoration: none;
+    color: rgb(31, 169, 31);
+}
 `

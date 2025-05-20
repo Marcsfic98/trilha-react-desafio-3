@@ -3,7 +3,6 @@ import {
   Routes,
   Route,
 } from "react-router-dom";
-import "./styles"
 import { Feed } from "./pages/feed";
 
 import { Home } from './pages/home'
